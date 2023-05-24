@@ -1,0 +1,92 @@
+.sliderMainWrap {
+    margin-top: 0px;
+    margin-bottom: 50px;
+    background-color: #0d2689;
+    border-top: 1px solid rgba(255, 255, 255, .15);
+}
+
+.sliderMainWrap .wraper {
+    width: auto;
+    margin: 0 50px;
+    color: #fff;
+}
+
+.sliderMainWrap .wraper .leftSec {
+    display: inline-block;
+    vertical-align: top;
+    width: 50%;
+    box-sizing: border-box;
+    text-align: center;
+    padding-top: 35px;
+}
+
+.sliderMainWrap .wraper .leftSec .topHead {
+    display: inline-block;
+    vertical-align: top;
+    text-transform: uppercase;
+    letter-spacing: 0px;
+    line-height: 13px;
+    font-size: 13px;
+    color: #222;
+    padding: 6px 13px 6px 13px;
+    border-radius: 2px 2px;
+    font-weight: 500;
+    background-color: #fcbe00;
+    margin-bottom: 20px;
+}
+
+.sliderMainWrap .wraper .leftSec h3,
+.sliderMainWrap .wraper .leftSec h4 {
+    text-transform: uppercase;
+    letter-spacing: 0;
+    line-height: 40px;
+    font-size: 40px;
+    color: #fff;
+    font-weight: 300;
+    margin-top: 10px;
+}
+
+.sliderMainWrap .wraper .leftSec h5 {
+    margin: 10px 0 20px 0;
+    letter-spacing: 0;
+    font-size: 18px;
+    color: #fff;
+    font-weight: 400;
+}
+
+.sliderMainWrap .wraper .leftSec .discoverBtn {
+    margin: 30px 0px 0px 0px;
+    padding: 14px 52px;
+    background-color: #fff;
+    color: #222;
+    font-size: 13px;
+    font-weight: 500;
+    border-radius: 3px 3px;
+    text-transform: uppercase;
+    letter-spacing: 0px;
+    border: 2px solid #fff;
+}
+
+.sliderMainWrap .wraper .leftSec .discoverBtn:hover {
+    background-color: #fcbe00;
+    color: #222;
+    border: 2px solid #fcbe00;
+}
+
+.sliderMainWrap .wraper .rightSec {
+    display: inline-block;
+    vertical-align: top;
+    width: 50%;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.sliderMainWrap .wraper .rightSec img {
+    width: 40%;
+    text-align: center;
+    padding-top: 25px;
+}
+
+.sliderMainWrap .alice-carousel__dots {
+    padding-bottom: 10px;
+}

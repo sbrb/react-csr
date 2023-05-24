@@ -1,0 +1,87 @@
+.qtyBtnSec .quatityBtnGroup {
+    display: inline-block;
+    vertical-align: top;
+    font-size: 18px;
+    color: #ccc;
+    height: 50px;
+    text-align: center;
+    border: solid 1px #ccc;
+}
+
+.qtyBtnSec .quatityBtnGroup .qtyBtn,
+.qtyBtnSec .quatityBtnGroup .qty-value {
+    cursor: pointer;
+    display: inline-block;
+    vertical-align: top;
+    line-height: 48px;
+    padding: 0 15px;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.qtyBtnSec .quatityBtnGroup .qty-value {
+    min-width: 70px;
+    text-align: center;
+    color: #000;
+}
+
+.emptyCart {
+    padding: 20px;
+    text-align: center;
+    font-size: 22px;
+}
+
+.emptyCart .topText {
+    padding: 20px 0;
+    font-weight: bold;
+}
+
+.emptyCart .topText .textGray {
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 5px;
+    padding-top: 2px;
+}
+
+.emptyCart .shoppingBtn {
+    display: inline-block;
+    vertical-align: top;
+    text-decoration: none;
+    background-color: #000000d1;
+    border-radius: 22px;
+}
+.shoppingBtn:hover{
+    color: greenyellow;
+}
+
+.cart {
+    margin-top: 20px;
+}
+
+.totalSec .totlaAmount {
+    display: inline-block;
+    vertical-align: top;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.totalSec .totlaAmount span {
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 40px;
+    line-height: 35px;
+}
+
+.totalSec  {
+    margin-left: 30px;
+}
+.cartTitle{
+    display: flex;
+    justify-content: space-around;
+}
+.cartTitle img {
+    height: 50px;
+    border-radius: 2px;
+    margin-left: 10px;
+    border: solid 1px #9f9f9f;
+}
